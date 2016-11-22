@@ -1,11 +1,10 @@
 # tweets
 
-Esse repositório contém códigos para salvar tweets de uma conta de ddusuário e minerar o seu conteúdo.
-
+Esse repositório contém códigos para salvar todos os tweets de uma conta de usuário e analisar seu conteúdo.
 
 Eles estão em python e em R, respectivamente.
 
-Esse trabalho foi feito com base em scripts encontrados online que foram adaptados às necessidades da pesquisa e ao sistema operacional macOS Sierra. 
+Esse trabalho foi feito com base em scripts encontrados online e foram adaptados às necessidades da pesquisa e do sistema operacional macOS Sierra. 
 
 Os scripts que deram origem a esse material foram: 
 
