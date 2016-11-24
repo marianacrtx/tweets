@@ -6,15 +6,15 @@ Os scripts estão em python e em R, respectivamente.
 
 Esse trabalho foi feito com base em projetos similares. Foram feitas adaptações conforme as necessidades da pesquisa e do sistema operacional macOS. 
 
-Os scripts que deram origem a esse material foram: 
+Os scripts que deram origem a esse material foram  
 
-Download do twitter em python:
+<b> Download do twitter em python: </b>
 
 <a href="https://github.com/code4pol"> Code4pol</a>:
 
 https://github.com/code4pol/lab-20160930-webscraping-1/blob/master/coletatodostweetsdeumaconta.py 
 
-Análise de texto em R:
+<b> Análise de texto em R: </b>
 
 Text Mining example codes (tweets):
 
