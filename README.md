@@ -11,6 +11,7 @@ Os scripts que deram origem a esse material foram:
 Download do twitter em python:
 
 <a href="https://github.com/code4pol"> Code4pol</a> 
+
 https://github.com/code4pol/lab-20160930-webscraping-1/blob/master/coletatodostweetsdeumaconta.py 
 
 Análise de texto em R:
