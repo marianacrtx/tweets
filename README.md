@@ -24,3 +24,6 @@ https://rstudio-pubs-static.s3.amazonaws.com/66739_c4422a1761bd4ee0b0bb8821d7780
 
 https://neylsoncrepalde.github.io/2016-11-18-ocupacao-na-ufmg-e-interevencao-policial/
 https://neylsoncrepalde.github.io/2016-03-18-analise-de-conteudo-twitter/
+
+
+Além disso (vários) problemas foram resolvidos por meio de tópicos no github.com e no stackoverflow. 
